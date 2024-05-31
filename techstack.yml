@@ -1,0 +1,20 @@
+repo_name: Kithub4115992/slacker
+report_id: 4748ed8bbc36a89f8a2598cab841e3fc
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-31T12:50:08+00:00'
+requested_by: jlord
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Kithub4115992/slacker
+  detection_source: Repo Metadata
